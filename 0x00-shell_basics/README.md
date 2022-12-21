@@ -1,1 +1,1 @@
-Git task 0
+ymbolic link to /bin/ls, named __ls__
