@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+bash_lines=$(echo $process_list | grep bash)
+echo $bash_lines
