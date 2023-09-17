@@ -1,0 +1,42 @@
+Title: The Web Unveiled: Behind the Scenes of Typing https://www.google.com and Hitting Enter
+
+Introduction:
+
+With four years of experience in software engineering, my curiosity has often led me to unravel the complexities of web interactions. In this exploration, I will take you on a comprehensive journey, delving into the intricate processes that unfold when I enter https://www.google.com into my browser's address bar and press Enter. This journey spans critical components, including DNS requests, TCP/IP, firewalls, HTTPS/SSL, load balancers, web servers, application servers, and databases.
+
+1. DNS Request:
+
+Beginning with a Domain Name System (DNS) request, a foundational step in web navigation. Upon entering a URL like https://www.google.com, my browser must find the corresponding IP address. It initiates a DNS request to a DNS server, a process I've encountered frequently, where domain names (e.g., www.google.com) are translated into IP addresses (e.g., 172.217.3.100).
+
+2. TCP/IP:
+
+Once my browser acquires the IP address, it establishes a connection using the Transmission Control Protocol (TCP) and Internet Protocol (IP). Through my experience, I understand the significance of TCP/IP, the backbone of internet communication, responsible for breaking data into packets and routing them efficiently across the vast digital landscape.
+
+3. Firewall:
+
+As our connection is established, it may traverse a firewall, a component I've worked with extensively. Firewalls serve as gatekeepers for network security, meticulously inspecting inbound and outbound traffic and applying predefined security rules to allow or block data.
+
+4. HTTPS/SSL:
+
+Security is paramount in modern web browsing. a principle ingrained in my professional journey. HTTPS (Hypertext Transfer Protocol Secure), bolstered by SSL (Secure Sockets Layer) or TLS (Transport Layer Security), emerges as the guardian of data privacy during transit. This encryption ensures that data remains confidential and secure during transmission.
+
+5. Load-Balancer:
+
+High-traffic websites, such as Google, lean on load balancers. Load balancers evenly distribute incoming requests across multiple web servers, optimizing resource utilization, enhancing website availability, and boosting overall performance.
+
+6. Web Server:
+
+These servers receive and process my request, fetching the requested web page or content and delivering it as an HTTP response.
+
+7. Application Server:
+
+Dynamic websites introduce the concept of application servers.Servers such as Tomcat, Node.js, and Ruby on Rails execute server-side code, generating dynamic content.
+
+8. Database:
+
+Databases serve as the repositories for data storage, retrieval, and manipulation in dynamic websites.
+
+Conclusion:
+
+As I access my favorite websites, I do so with heightened awareness of the intricate web stack that makes it all possible.
+
